@@ -1,0 +1,9 @@
+setup.py
+stipythonws/__init__.py
+stipythonws/app.py
+stipythonws.egg-info/PKG-INFO
+stipythonws.egg-info/SOURCES.txt
+stipythonws.egg-info/dependency_links.txt
+stipythonws.egg-info/not-zip-safe
+stipythonws.egg-info/requires.txt
+stipythonws.egg-info/top_level.txt
